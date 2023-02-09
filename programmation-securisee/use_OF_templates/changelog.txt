@@ -1,0 +1,7 @@
+app.py :
+1) from XXXX.html to time.html
+2) from Date=none to Date=date
+3) from Hour=none to Hour=hour
+
+Base.html:
+1) from XXXX.css to main.css

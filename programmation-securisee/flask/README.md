@@ -6,4 +6,4 @@
 2. in flask run app.py with "python3 app.py"
 
 
-3. in google paste the link of your server
+3. in google paste the link of your server given by app.py
